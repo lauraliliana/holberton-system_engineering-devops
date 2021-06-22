@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ### REPOSITORY holberton-system_engineering-devops
+=======
+### holberton-system_engineering-devops repository
+>>>>>>> f486aaa12be3a9f6379838cbed4cf8efe30bcf16
 ---
 #### General
 * What does RTFM mean?
